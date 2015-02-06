@@ -5,7 +5,7 @@
 Summary:	Haskell Database Connectivity
 Name:		ghc-%{module}
 Version:	2.3.1.1
-Release:	2
+Release:	3
 License:	BSD
 Group:		Development/Other
 Url:		http://hackage.haskell.org/package/%{module}
