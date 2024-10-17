@@ -8,7 +8,7 @@ Version:	2.3.1.1
 Release:	3
 License:	BSD
 Group:		Development/Other
-Url:		http://hackage.haskell.org/package/%{module}
+Url:		https://hackage.haskell.org/package/%{module}
 Source0:	http://hackage.haskell.org/packages/archive/%{module}/%{version}/%{module}-%{version}.tar.gz
 Source10:	%{name}.rpmlintrc
 BuildRequires:	ghc-devel
